@@ -2,5 +2,5 @@
 Course  Project Essential Agile Principles
 ### Authors 
 - [Alejandro Forero](https://github.com/AlejandroForeroG)
-- [Yesid Marin]([https://github.com/YesidMarinUni])
+- [Yesid Marin](https://github.com/YesidMarinUni)
 
